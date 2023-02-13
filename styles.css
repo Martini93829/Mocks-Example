@@ -1,0 +1,34 @@
+.intro{
+color: darkgreen;
+}
+
+img{
+width: 300px;
+}
+
+p{
+color: darkgreen;
+    background-color: lightgreen;
+}
+
+.sample{
+display: none;
+    
+}
+
+body{
+background-color: lightyellow;
+}
+
+.sample2{
+display: none;
+}
+
+.two{
+color: darkblue;
+    background-color: lightblue;
+}
+
+h4{
+color: red;
+}
